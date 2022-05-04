@@ -11,7 +11,7 @@ var config = {
         {
             id: 'chapter1',
             alignment: 'right',
-            title: '1970',
+            title: '1970s',
             image: '',
             description: '',
             location: {
@@ -43,7 +43,7 @@ var config = {
         {
             id: 'chapter2',
             alignment: 'right',
-            title: '1980',
+            title: '1980s',
             image: '',
             description: '',
             location: {
@@ -75,7 +75,7 @@ var config = {
         {
             id: 'chapter3',
             alignment: 'right',
-            title: '1990',
+            title: '1990s',
             image: '',
             description: '',
             location: {
@@ -107,7 +107,7 @@ var config = {
         {
             id: 'chapter4',
             alignment: 'right',
-            title: '2000',
+            title: '2000s',
             image: '',
             description: '',
             location: {
@@ -139,7 +139,7 @@ var config = {
         {
             id: 'chapter5',
             alignment: 'right',
-            title: '2010',
+            title: '2010s',
             image: '',
             description: '',
             location: {
@@ -171,7 +171,7 @@ var config = {
         {
             id: 'chapter6',
             alignment: 'right',
-            title: '2020',
+            title: '2020s',
             image: '',
             description: '',
             location: {
