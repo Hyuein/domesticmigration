@@ -13,7 +13,7 @@ var config = {
             alignment: 'right',
             title: '1970',
             image: '',
-            description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
+            description: '',
             location: {
                 center: [129.321,35.927],
                 zoom: 7,
@@ -45,7 +45,7 @@ var config = {
             alignment: 'right',
             title: '1980',
             image: '',
-            description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
+            description: '',
             location: {
                 center: [129.321,35.927],
                 zoom: 7,
@@ -77,7 +77,7 @@ var config = {
             alignment: 'right',
             title: '1990',
             image: '',
-            description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
+            description: '',
             location: {
                 center: [129.321,35.927],
                 zoom: 7,
@@ -109,7 +109,7 @@ var config = {
             alignment: 'right',
             title: '2000',
             image: '',
-            description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
+            description: '',
             location: {
                 center: [129.321,35.927],
                 zoom: 7,
@@ -141,7 +141,7 @@ var config = {
             alignment: 'right',
             title: '2010',
             image: '',
-            description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
+            description: '',
             location: {
                 center: [129.321,35.927],
                 zoom: 7,
@@ -173,7 +173,7 @@ var config = {
             alignment: 'right',
             title: '2020',
             image: '',
-            description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
+            description: '',
             location: {
                 center: [129.321,35.927],
                 zoom: 7,
